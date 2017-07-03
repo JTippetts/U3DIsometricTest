@@ -1,0 +1,1 @@
+Urho3DPlayer.exe Scripts/main.lua -borderless

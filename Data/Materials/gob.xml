@@ -1,0 +1,5 @@
+<material>
+    <technique name="Techniques/DiffNormal.xml"/>
+    <texture unit="diffuse" name="Textures/gobdiff.png" />
+    <texture unit="normal" name="Textures/gobnorm.png" />
+</material>

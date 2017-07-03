@@ -1,0 +1,3 @@
+<animation>
+	<trigger normalizedtime="0.5" type="String" value="Hit" />
+</animation>
