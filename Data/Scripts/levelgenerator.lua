@@ -87,7 +87,7 @@ levelobjects=
 	{
 		Components=
 		{
-			{Type="ScriptObject", Classname="IsometricCamera", Parameters={springtrack=false,orthographic=true,}},
+			{Type="ScriptObject", Classname="IsometricCamera", Parameters={springtrack=false,orthographic=true,allowspin=false,allowzoom=false,allowpitch=false}},
 		},
 	},
 	
@@ -116,7 +116,7 @@ levelobjects=
 
 		},
 		--[[
-		children=
+		Children=
 		{
 			{
 				Position={x=0,y=1.5,z=0.5},

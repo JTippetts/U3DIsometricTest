@@ -1,0 +1,148 @@
+[Mon Jul 03 09:35:30 2017] INFO: Opened log file Urho3D.log
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/cursor.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/cursor.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall3.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall3.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Techniques/DiffAlphaMask.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall3.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/floor.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/floor.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/floor.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall9.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall9.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall9.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall9_a.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall9brazier.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall11.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall11.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall11.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall10.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall10.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall10.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall6.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall6.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall6.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall5.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall5.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall5.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall13.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall13.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall13.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall12.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall12.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall12.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall4.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall4.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall4.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall6_a.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall6brazier.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall2.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall2.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall2.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall7.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall7.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall7.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall8.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall8.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall8.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall1.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall1.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall1.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall15.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall15.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall15.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/wall14.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/wall14.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/testwall/wall14.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/gob.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/gob.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Techniques/DiffNormal.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/gobdiff.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Textures/gobnorm.png
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/CubeSword.mdl
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Materials/CubeSword.xml
+[Mon Jul 03 09:35:30 2017] DEBUG: Loading resource Models/GC_Idle.ani
+[Mon Jul 03 09:35:31 2017] DEBUG: Built navigation mesh with 3025 tiles
+[Mon Jul 03 09:35:31 2017] DEBUG: Loading resource Models/GC_Walk.ani
+[Mon Jul 03 09:35:31 2017] DEBUG: Reloading shaders
+[Mon Jul 03 09:35:32 2017] DEBUG: Loading resource Shaders/GLSL/LitSolid.glsl
+[Mon Jul 03 09:35:32 2017] DEBUG: Loading resource Shaders/GLSL/Shadow.glsl
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT INSTANCED PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(ALPHAMASK AMBIENT DIFFMAP DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT INSTANCED PERPIXEL) and pixel shader LitSolid(ALPHAMASK AMBIENT DIFFMAP DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(AMBIENT DIFFMAP DIRLIGHT NORMALMAP PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL SKINNED) and pixel shader LitSolid(AMBIENT DIFFMAP DIRLIGHT NORMALMAP PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(AMBIENT DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SKINNED) and pixel shader LitSolid(AMBIENT DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(ALPHAMASK DIFFMAP DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT INSTANCED PERPIXEL) and pixel shader LitSolid(ALPHAMASK DIFFMAP DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SKINNED) and pixel shader LitSolid(DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(DIFFMAP DIRLIGHT NORMALMAP PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL SKINNED) and pixel shader LitSolid(DIFFMAP DIRLIGHT NORMALMAP PERPIXEL)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader Shadow()
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader Shadow(ALPHAMASK)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader Shadow() and pixel shader Shadow(ALPHAMASK)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader Shadow(INSTANCED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader Shadow(INSTANCED) and pixel shader Shadow(ALPHAMASK)
+[Mon Jul 03 09:35:32 2017] DEBUG: Loading resource Shaders/GLSL/Stencil.glsl
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader Stencil()
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader Stencil()
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader Stencil() and pixel shader Stencil()
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(INSTANCED PERPIXEL POINTLIGHT SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(ALPHAMASK DIFFMAP PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(INSTANCED PERPIXEL POINTLIGHT SHADOW) and pixel shader LitSolid(ALPHAMASK DIFFMAP PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(ALPHAMASK DIFFMAP PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(PERPIXEL POINTLIGHT) and pixel shader LitSolid(ALPHAMASK DIFFMAP PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(INSTANCED PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(INSTANCED PERPIXEL POINTLIGHT) and pixel shader LitSolid(ALPHAMASK DIFFMAP PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SKINNED) and pixel shader LitSolid(PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(DIFFMAP NORMALMAP PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SKINNED) and pixel shader LitSolid(DIFFMAP NORMALMAP PERPIXEL POINTLIGHT)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader Shadow(SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader Shadow()
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader Shadow(SKINNED) and pixel shader Shadow()
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW SKINNED) and pixel shader LitSolid(PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SHADOW SKINNED)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader LitSolid(DIFFMAP NORMALMAP PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SHADOW SKINNED) and pixel shader LitSolid(DIFFMAP NORMALMAP PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader LitSolid(PERPIXEL POINTLIGHT SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader LitSolid(PERPIXEL POINTLIGHT SHADOW) and pixel shader LitSolid(ALPHAMASK DIFFMAP PERPIXEL POINTLIGHT SHADOW SIMPLE_SHADOW)
+[Mon Jul 03 09:35:32 2017] DEBUG: Loading resource Shaders/GLSL/Basic.glsl
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Mon Jul 03 09:35:32 2017] DEBUG: Compiled pixel shader Basic(ALPHAMASK DIFFMAP VERTEXCOLOR)
+[Mon Jul 03 09:35:32 2017] DEBUG: Linked vertex shader Basic(DIFFMAP VERTEXCOLOR) and pixel shader Basic(ALPHAMASK DIFFMAP VERTEXCOLOR)
+4103.328125
+
+4154.22265625
+
+[Mon Jul 03 09:35:36 2017] DEBUG: Resized scratch buffer to size 16320
+[Mon Jul 03 09:35:36 2017] DEBUG: Resized scratch buffer to size 16464
+4225.16796875
+
+4252.08984375
+
+[Mon Jul 03 09:35:41 2017] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:41 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT PERPIXEL) and pixel shader LitSolid(ALPHAMASK AMBIENT DIFFMAP DIRLIGHT PERPIXEL)
+[Mon Jul 03 09:35:41 2017] DEBUG: Linked vertex shader LitSolid(DIRLIGHT PERPIXEL) and pixel shader LitSolid(ALPHAMASK DIFFMAP DIRLIGHT PERPIXEL)
+4280.62890625
+
+4317.80859375
+
+4325.57421875
+
+4326.80078125
+
+4322.22265625
+
+4332.09375
+
+[Mon Jul 03 09:35:53 2017] DEBUG: Quitting SDL
